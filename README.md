@@ -28,6 +28,12 @@
 - Gros projets : parcours et simulations longs calculés en tâche de fond (l'interface reste utilisable), affichage fluide des gros dessins et des gros parcours, historique d'annulation léger
 - Interface en français et en anglais (boutons FR / EN en haut à droite)
 
+## Carvera Air
+
+Deux post-processeurs intégrés pour le firmware Makera d’origine : **3 axes XYZ** et **4 axes par enroulement Y vers -A**, en millimètres. Réglages, limites et validation : [Carvera Air](docs/carvera-air.md).
+
+Two built-in post processors for stock Makera firmware: **3-axis XYZ** and **4-axis rotary wrapping Y to -A**, in millimeters. Setup, limitations and validation: [Carvera Air](docs/carvera-air.md).
+
 ## Usage hors ligne / Offline use
 Téléchargez le dossier complet (« Code › Download ZIP »), décompressez-le et ouvrez `index.html` : tout est fourni, rien à installer.
 Download the whole folder (“Code › Download ZIP”), unzip it and open `index.html`: everything is included, nothing to install.
